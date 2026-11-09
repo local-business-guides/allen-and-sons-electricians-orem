@@ -23,6 +23,9 @@
 - [Electrical Wiring Orem | Allen & Sons Electricians](https://local-business-guides.github.io/allen-and-sons-electricians-orem/electrical-wiring-orem/): Electrical Wiring Orem help for a clearer plan and informed next steps in Orem, Utah. Call Allen & Sons Electricians to discuss your project today.
 - [Top Electrician Ut in Orem | Allen & Sons Electricians](https://local-business-guides.github.io/allen-and-sons-electricians-orem/top-electrician-ut-in-orem/): Top Electrician Ut in Orem guidance for choosing your next step in Orem, Utah. Call Allen & Sons Electricians today to talk through the job.
 
+## Newsroom
+- [Allen & Sons Electricians Publishes Guide to Electrician In Orem UT](https://local-business-guides.github.io/allen-and-sons-electricians-orem/news/2026-11-09-allen-sons-electricians-publishes-guide-to/): Allen & Sons Electricians published a guide to Electrician In Orem UT, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-09)
+
 ## Pages
 - [Electrician in Orem, Utah](https://local-business-guides.github.io/allen-and-sons-electricians-orem/): Get practical electrical help in Orem, with a clear place to start when something at home needs attention. Call +1385-325-8701.
 - [About Allen & Sons Electricians](https://local-business-guides.github.io/allen-and-sons-electricians-orem/about/): About Allen & Sons Electricians, Orem.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/allen-and-sons-electricians-orem/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/allen-and-sons-electricians-orem/news/rss.xml)
 - [Main resource site](https://allen-sons-orem-electricians.localbusinesses1.chatgpt.site)
